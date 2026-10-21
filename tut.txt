@@ -1,0 +1,10 @@
+thanks for purchase
+
+
+apt install golang-go
+go mod init bruter
+go mod tidy
+go build bruter.go
+
+
+bash run.sh
